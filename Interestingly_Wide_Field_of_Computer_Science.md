@@ -5,7 +5,7 @@ title:
 date: 2021-10-08
 labels: 
   - Computer Science
-  - 
+  - ICS 211
 ---
 
 Computer science is a highly demanded major of this generation. This was an unignorably big part of the reason why I chose to learn computer science and it was not enough motivation for me to learn about this specific field. Planning for the future is not quite my style of getting things done. In terms of efficiency, my planless lifestyle is not the best way to get things done. RadGrad is helpful planning for the future in that sense. RadGrad gave me a clear view of what courses and opportunities are provided for the computer science major.
